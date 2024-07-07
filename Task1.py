@@ -15,6 +15,7 @@ def get_days_from_today(date):
     except ValueError:
         return "Не вірний формат дати, перевірте що він співпадає з форматом 'РРРР-ММ-ДД'"
 
+'''
 #Перевірка роботи функції   
 print(get_days_from_today("2024-07-02"))
-        
+'''
